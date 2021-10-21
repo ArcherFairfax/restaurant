@@ -11,27 +11,7 @@ h1{
 	color: #950740;
 	padding: 20px;
 }
-nav{
-	background-color: #950740;
-	display: grid;
-	text-align: center;
-}
-nav ul{
-	list-style-type: none;
-}
-nav ul a{
-	display: inline-block;
-	padding: 20px;
-	text-decoration: none;
-	color: #FFFFFF;
-	transition: 0.5s;
-	font-size: 18px
-}
 
-nav ul a:hover{
-	background-color: #6F2232;
-	color: white;
-}
 .items{
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
